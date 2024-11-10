@@ -1,0 +1,4 @@
+api\Filme.class
+com\curso\filmzone\api\Aplicacao.class
+com\curso\filmzone\api\JAXRSConfiguration.class
+com\curso\filmzone\api\resources\JavaEE8Resource.class
